@@ -1,6 +1,4 @@
-# The Dream Forge
-
-Hi there 👋
+### Hi there 👋
 
 We're developing [Yugen Saga](yugensaga.com) picks up on that same creative energy of Aspereta and Illutia decades later.
 To see regular updates and previews join our [Discord](https://discord.com/invite/yugensaga) or play today at https://play.yugensaga.com.
